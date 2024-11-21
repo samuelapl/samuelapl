@@ -2,7 +2,7 @@
   <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Full Stack Development" />
 </p>
 
-<h3 align="center">I am Samuel Tiruneh, a junior full-stack web developer and a software engineering student at Bahir Dar University in Ethiopia.</h3>
+<h3 align="center">I am Samuel Tiruneh, a full-stack web developer and a software engineering student at Bahir Dar University in Ethiopia.</h3>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20web%20does%20not%20just%20connect%20machines,%20it%20connects%20people.&author=Unknown" alt="Quote">
