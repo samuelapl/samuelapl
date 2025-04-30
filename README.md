@@ -1,11 +1,8 @@
 # Hi there, I'm [Your Name] 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF7&width=435&lines=MERN+Stack+Developer;Flutter+Developer;Open-Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
-
-## 🚀 About Me
-
-I'm a passionate Full Stack Developer specializing in MERN stack and cross-platform mobile development with Flutter. I love building scalable web applications and beautiful mobile experiences.
-
+<p align="center">
+  <img src="https://i.postimg.cc/xQGbTPr/your-banner.jpg" alt="Muhammad Ahmad - MERN & Flutter Developer" style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+</p>
 - 🔭 I'm currently working on [Current Project]
 - 🌱 I'm currently learning [Current Learning Focus]
 - 👯 I'm looking to collaborate on open-source projects
