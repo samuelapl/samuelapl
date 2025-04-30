@@ -1,8 +1,13 @@
 # Hi there, I'm [Your Name] 👋
 
 <p align="center">
-  <img src="https://postimg.cc/06X017dh" alt="Muhammad Ahmad - MERN & Flutter Developer" style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img 
+    src="./YOUR_BANNER_FILENAME.jpg" 
+    alt="Muhammad Ahmad - MERN & Flutter Developer" 
+    style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
+  >
 </p>
+
 - 🔭 I'm currently working on [Current Project]
 - 🌱 I'm currently learning [Current Learning Focus]
 - 👯 I'm looking to collaborate on open-source projects
