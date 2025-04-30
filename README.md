@@ -8,7 +8,7 @@
 
 # ⚡ Contact Me 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Let's+connect+and+collaborate!;Feel+free+to+reach+out+%3A)" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Let's+connect+and+collaborate!;Feel+free+to+reach+out+%3A)" alt="Typing animation" />
   
   <br/>
 
