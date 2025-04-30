@@ -21,7 +21,7 @@
   # ⚡ Skills
 
 
-### Frontend Development
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=300&lines=Frontend+Development" alt="Typing animation" />
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -29,24 +29,23 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-### Backend Development
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=300&lines=Backend+Development" alt="Typing animation" />
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Mobile Development
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=300&lines=Mobile+Development" alt="Typing animation" />
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### Databases
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=300&lines=Databases" alt="Typing animation" />
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-### Other Technologies
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=300&lines=Other+Technologies" alt="Typing animation" />
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-
