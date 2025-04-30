@@ -1,56 +1,68 @@
-<p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Full Stack Development" />
-</p>
+# Hi there, I'm [Your Name] 👋
 
-<h3 align="center">I am Samuel Tiruneh, a full-stack web developer and a software engineering student at Bahir Dar University in Ethiopia.</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF7&width=435&lines=MERN+Stack+Developer;Flutter+Developer;Open-Source+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=The%20web%20does%20not%20just%20connect%20machines,%20it%20connects%20people.&author=Unknown" alt="Quote">
-</p>
+## 🚀 About Me
 
-## 🛠 My Toolkit
+I'm a passionate Full Stack Developer specializing in MERN stack and cross-platform mobile development with Flutter. I love building scalable web applications and beautiful mobile experiences.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=563D7C" alt="Bootstrap logo" title="Bootstrap" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />
-</p>
+- 🔭 I'm currently working on [Current Project]
+- 🌱 I'm currently learning [Current Learning Focus]
+- 👯 I'm looking to collaborate on open-source projects
+- 💬 Ask me about React, Node.js, MongoDB, or Flutter
+- 📫 How to reach me: [Your Email] or [Social Media Links]
+- ⚡ Fun fact: [Interesting Personal Fact]
 
-## 📘 Currently Improving
+## 🛠️ Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
-</p>
+### Web Development
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-## 🚀 Future Learning Goals
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" />
-</p>
+### Other Technologies
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📬 Connect with Me
+## 📈 GitHub Stats
 
-<p align="left">
-  <a href="mailto:samuelplusweb@gmail.com"><img src="https://img.shields.io/badge/Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="25" /></a>
-  &nbsp;
-  <a href="tel:+25195749521"><img src="https://img.shields.io/badge/Phone-282C34?logo=phone&logoColor=00C853" alt="Phone logo" title="Phone" height="25" /></a>
-</p>
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+## 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)](https://git.io/streak-stats)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post Title 1](Link)
+- [Post Title 2](Link)
+- [Post Title 3](Link)
+<!-- BLOG-POST-LIST:END -->
+
+## 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YourLinkedInURL)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YourTwitterURL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](YourPortfolioURL)
+
+## 👀 Visitors Count
+
+![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+
+⭐️ From [YourName](https://github.com/yourusername)
