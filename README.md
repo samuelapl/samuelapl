@@ -6,7 +6,8 @@
   >
 </p>
 
-# 📫 Contact Me
+<h2 style="color: #F7DF1E;">📫 Contact Me</h2>
+
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Let's+connect+and+collaborate!;Feel+free+to+reach+out+%3A)" alt="Typing animation" />
