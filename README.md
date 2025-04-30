@@ -1,5 +1,3 @@
-# Hi there, I'm [Your Name] 👋
-
 <p align="center">
   <img 
     src="./banner.png" 
