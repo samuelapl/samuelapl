@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="./Screenshot from 2025-04-30 21-41-44.png" 
+    src="./banner.png" 
     alt="Muhammad Ahmad - MERN & Flutter Developer" 
     style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
   >
