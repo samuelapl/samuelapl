@@ -6,9 +6,7 @@
   >
 </p>
 
-![Contact Me](https://img.shields.io/badge/-📫_Contact_Me-F7DF1E?style=for-the-badge)
-
-<!-- Rest of your content -->
+# 📫 Contact Me 
 
 
 <div align="left">
