@@ -5,7 +5,6 @@
     style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
   >
 </p>
-
 # ⚡ Contact Me 
 <div align="left">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Let's+connect+and+collaborate!;Feel+free+to+reach+out+%3A)" alt="Typing animation" />
@@ -16,8 +15,22 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueapl01)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samiAPL)
 </div>
-  <br/>  <br/>
+<br/><br/>
+
 # ⚡ Skills
+# ⚡ Contact Me 
+<div align="left">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=435&lines=Let's+connect+and+collaborate!;Feel+free+to+reach+out+%3A)" alt="Typing animation" />
+  
+  <br/>
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelapl193@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samueapl01)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/samiAPL)
+</div>
+  <br/><br/>
+  
+  # ⚡ Skills
 
 ### Web Development
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
