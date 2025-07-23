@@ -1,9 +1,9 @@
 <p align="center">
-  <img 
+<!--   <img 
     src="./banner.png" 
     alt="Muhammad Ahmad - MERN & Flutter Developer" 
     style="width: 100%; max-width: 1200px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"
-  >
+  > -->
 </p>
 
 # ⚡ Contact Me 
