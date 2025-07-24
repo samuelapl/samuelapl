@@ -1,4 +1,4 @@
-# ⚡ Contact Me 
+# ⚡ Contact
 <div align="left">
   <br/>
 
@@ -10,7 +10,12 @@
 
 ---
 
-# ⚡ Skills
+# 🚀 About
+Full-Stack developer skilled in developing web apps with **React/Next.js**, **Node.js/Express** and cross-platform mobile apps with **Flutter**. Passionate about learning, collaborating, and turning ideas into clean, efficient code.
+
+---
+
+# 💡 Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
