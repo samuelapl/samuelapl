@@ -11,8 +11,7 @@
 ---
 
 # 🚀 About
-Full-Stack developer skilled in developing web apps with **React/Next.js**, **Node.js/Express** and cross-platform mobile apps with **Flutter**. Passionate about learning, collaborating, and turning ideas into clean, efficient code.
-
+Full-Stack Developer specializing in building responsive web applications with React/Next.js and scalable backend systems using Node.js/Express. Experienced in developing cross-platform mobile solutions with Flutter that deliver native-like performance. Passionate about writing clean, maintainable code while following best practices in software architecture. Strong collaborator who thrives in team environments, with expertise in turning complex requirements into efficient technical solutions. Continuously learning and adapting to new technologies to create optimal user experiences across web and mobile platforms
 ---
 
 # 💡 Skills
